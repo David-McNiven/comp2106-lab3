@@ -1,0 +1,14 @@
+{
+  "name": "comp2106-lab3",
+  "version": "1.0.0",
+  "description": "Simple Calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David McNiven",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
