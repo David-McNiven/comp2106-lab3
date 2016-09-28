@@ -9,6 +9,7 @@
   "author": "David McNiven",
   "license": "ISC",
   "dependencies": {
+    "connect": "^3.5.0",
     "nodemon": "^1.10.2"
   }
 }
